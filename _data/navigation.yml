@@ -2,7 +2,7 @@
 main:
   - title: "Search"
     url: /search/
-  - title: "Techpubs"
+  - title: "TOEIC"
     url: /techpubs/
     subtitle:
       - title: "Programming"
